@@ -13,7 +13,7 @@ namespace MvcClient.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "冷", "Cool", "Mild", "溫暖", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "冷", "Cool", "Mild", "溫暖", "Balmy", "熱", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
